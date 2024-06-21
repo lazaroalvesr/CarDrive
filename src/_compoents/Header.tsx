@@ -31,7 +31,7 @@ export const HeaderPage = () => {
                     </HeaderNav>
                     <DivLogin>
                         <LinkRedirect href="/">
-                            <ImgUser src="/img/icons/user.png" alt="foto usuário" />
+                            <ImgUser src="/img/icons/User.png" alt="foto usuário" />
                             <ButtonTextLogin>Entrar</ButtonTextLogin>
                         </LinkRedirect>
                         <LinkRedirect href="/">
