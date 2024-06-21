@@ -5,7 +5,7 @@ import { GlobalStyles } from "./_styles/Global.styles"
 export const AvaliacaoClientes = () => {
     return (
         <GlobalStyles>
-            <AvaliacaoClientesContainer>
+            <AvaliacaoClientesContainer className="animeLeft">
                 <AvaliacaoClientesTitulo>O que Dizem Nossos Clientes</AvaliacaoClientesTitulo>
                 <GridCardClientes>
                     <CardAvaliacaoClientes

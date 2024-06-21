@@ -7,7 +7,7 @@ export const VenderCarro = () => {
     return (
         <BGWhite>
             <GlobalStyles>
-                <VenderCarroContainer>
+                <VenderCarroContainer className="animeLeft">
                     <VenderDivImg>
                         <VenderImg src="/img/VenderCarro.png" />
                     </VenderDivImg>
